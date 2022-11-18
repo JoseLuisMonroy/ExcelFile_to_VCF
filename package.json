@@ -1,6 +1,6 @@
 {
     "name": "practicajs_xlsx",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Codigo para la obtención de datos de excel",
     "main": "index.js",
     "scripts": {
