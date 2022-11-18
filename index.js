@@ -4,5 +4,4 @@ const file = "file.xlsx";
 
 fileController.createFile();
 fileController.addInfo(file);
-const fileName = excelController.getFileName(file);
-fileController.moveFile(fileName);
+fileController.moveFile(excelController.getFileName(file));
